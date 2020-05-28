@@ -32,4 +32,3 @@ contributors <- contributors %>%
 cat("A big thanks goes to everyone who has contributed!\n")
 cat(paste0(contributors$desc, collapse = ", "))
 ```
-
